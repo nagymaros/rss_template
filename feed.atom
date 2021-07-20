@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-20T00:24:25.072Z</id>
+    <id>https://nagymaros.github.io/rss_template/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T00:24:25.072Z</updated>
+    <updated>2021-07-20T00:32:02.687Z</updated>
     <generator>osmosfeed 1.11.0</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://nagymaros.github.io/rss_template/index.html"/>
+    <link rel="self" href="https://nagymaros.github.io/rss_template/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[How to Install Xcode Command Line Tools on a Mac]]></title>
         <id>60f3e5ca66c61b07d458eb2d</id>
