@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nagymaros.github.io/rss_template/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T00:55:12.046Z</updated>
+    <updated>2021-08-08T01:00:57.630Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://nagymaros.github.io/rss_template/index.html"/>
     <link rel="self" href="https://nagymaros.github.io/rss_template/feed.atom"/>
@@ -508,16 +508,6 @@ The post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You
         <summary type="html"><![CDATA[CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making A Strong Case For Accessibility]]></title>
-        <id>https://smashingmagazine.com/2021/07/strong-case-for-accessibility/</id>
-        <link href="https://smashingmagazine.com/2021/07/strong-case-for-accessibility/"/>
-        <updated>2021-07-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Todd Libby)</name>
         </author>
     </entry>
 </feed>
