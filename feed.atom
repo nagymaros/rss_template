@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nagymaros.github.io/rss_template/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-22T00:58:14.663Z</updated>
+    <updated>2021-08-23T00:55:03.785Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://nagymaros.github.io/rss_template/index.html"/>
     <link rel="self" href="https://nagymaros.github.io/rss_template/feed.atom"/>
